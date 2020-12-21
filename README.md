@@ -10,3 +10,4 @@ About me Image: https://al.nd.edu/news/latest-news/notre-dame-launches-new-ba-in
 Personal Development First Image: https://kevinharrington.tv/productive-outweighs-working-hard-heres/
 Camry XSE Image: https://www.marinadelreytoyota.com/new-vehicles/
 
+Academic Development Image: https://www.fulcrumlabs.ai/blog/procrastination/
