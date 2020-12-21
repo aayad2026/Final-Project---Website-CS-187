@@ -1,12 +1,20 @@
 body {
-    background-color: ghostwhite;
+    background-color: white;)
+
+}
+h5 {
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+    height: 50px;
+    background-color: #4B85F1;
+    font-size: xxx-large;
+    text-align: center;
+    bottom: 100px;
+    color: white;
 }
 
-h1 {
-    color: cornflowerblue;
-    background-color: ghostwhite;
-    margin-left: 5px;
-}
+
 
 /*navigation bar*/
 
@@ -14,7 +22,7 @@ ul {
     list-style-type: none;
     margin: 10px;
     padding: 20px;
-    background-color: cornflowerblue;
+
 
 }
 li {
@@ -22,32 +30,50 @@ li {
 }
 li a{
     display: block;
-    color: ghostwhite;
+    color: white;
     position: relative;
-    bottom: 10px;
+    bottom: 31px;
+    border: 6px solid #4b85f1;
     font-size: large;
-    background-color:cornflowerblue;
-    padding: 0 12px;
-    text-decoration: white;
+    background-color:#4B85F1;
+    padding: 5px 12px;
+    text-decoration: #4B85F1;
 }
 li a:hover {
     background-color: white;
-    color: cornflowerblue;
+    color:#4B85F1;
 }
 
 /*end navigation bar*/
 
 /* main section*/
 
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+
+h3 {
+    color: #4B85F1;
 }
 
-h2 {
-    background-color: cornflowerblue;
-    width: 500px;
-    length: 1000px;
-    text-align: center;
+/*about me*/
+
+table, th, td {
+    background-color: #4B85F1;
+    border: 1px solid white;
+    color: white;
+
+}
+
+table.center {
+    margin-right: auto;
+    margin-left: 0;
+}
+
+th.center {
+
+    margin-right: auto;
+    margin-left: auto;
+}
+td.center {
+
+    margin-right: auto;
+    margin-left: auto;
 }
